@@ -35,9 +35,9 @@ The workbook also contains the other tabs that came with the Screener export (Pr
 - **Sorting and filtering:** done on a values-only copy, because sorting the original would break the formulas that refer to neighboring rows
 
 ## Charts
-![Revenue vs Expenses](revenue_vs_expenses.png)
+![Revenue vs Expenses](Picture2.jpg)
 ![Operating Margin vs Net Profit Margin](Picture1.jpg)
-![Operating Profit vs Net Profit](profit_comparison.png)
+![Operating Profit vs Net Profit](Picture3.jpg)
 
 ## Key results
 | Measure | Value |
