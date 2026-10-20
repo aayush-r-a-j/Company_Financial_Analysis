@@ -36,7 +36,7 @@ The workbook also contains the other tabs that came with the Screener export (Pr
 
 ## Charts
 ![Revenue vs Expenses](revenue_vs_expenses.png)
-![Operating Margin vs Net Profit Margin](margins.png)
+![Operating Margin vs Net Profit Margin](Picture1.jpg)
 ![Operating Profit vs Net Profit](profit_comparison.png)
 
 ## Key results
